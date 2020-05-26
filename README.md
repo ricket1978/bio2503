@@ -6,4 +6,5 @@ In this course, we will discuss the following topics:
 - Linux Installation using Docker
 - Linux Command Line
 - Regular Expression
+- Shell Programming
 - System Administration
