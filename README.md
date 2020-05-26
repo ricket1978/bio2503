@@ -8,3 +8,6 @@ In this course, we will discuss the following topics:
 - Regular Expression
 - Shell Programming
 - System Administration
+
+
+Finally, we will apply this technologies in creating a computing environment for bioinformatics, machine learning or biostatistics.
