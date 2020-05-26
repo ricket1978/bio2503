@@ -8,3 +8,5 @@ In this course, we will discuss the following topics:
 - Regular Expression
 - Shell Programming
 - System Administration
+- Developing C Programs
+- Python Fans
