@@ -1,4 +1,4 @@
-# BIO2503
+# BIO2503 - Linux Programming for Bioinformatics
 
 This is the course repository for the course, Linux Programming for Bioinformatics.
 
